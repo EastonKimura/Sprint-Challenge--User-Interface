@@ -144,3 +144,21 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.boxes {
+    border-color: red;  
+
+
+}
+.jumbo{
+padding: 5px;
+margin-bottom: 10px;
+
+}
+.navigators{
+    display: flex;
+    flex: wrap;
+    flex-direction: row;
+    flex: space-evenly;
+
+
+}
